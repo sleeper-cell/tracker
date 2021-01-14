@@ -1,4 +1,3 @@
-<!-- Coded by X~Wh1t3R0s3 -->
 <!DOCTYPE html>
 <html>
 <head>
